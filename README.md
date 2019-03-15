@@ -16,9 +16,10 @@ It is specially designed for users seeking a fast, efficient and fully-compatibl
 
 <!-- *-* **License:** GPLv3 -->
 
+<!-- 
 ## How to get started
 
-<!-- The EVEN network is an independent peer-to-peer network with a first-user, friend-to-friend, network structure based on IPFS functionality:
+The EVEN network is an independent peer-to-peer network with a first-user, friend-to-friend, network structure based on IPFS functionality:
 
 - As a “first user” network for accessing data streams and APIs provided by other users, you do not need to worry about network identification — the identified service of the node immediately connects to EVEN Network in IPFS.
 
@@ -31,15 +32,16 @@ If you want to get tokens for your testcase, please just ask in one of the commu
 > Simple EVEN mobile application architecture illustration
 
 <p align="center">
-  <img src="https://github.com/evenfound/even-network/blob/develop/doc/even-node.png">
+  <img src="https://github.com/evenfound/even-mobile/blob/master/doc/Even.Mobile.App.jpg">
 </p>
 
-## Folders Structure
+<!-- ## Folders Structure
 
-<!-- > Structure EVEN Node project and short introduction all its subrpojects
+> Structure EVEN Node project and short introduction all its subrpojects -->
 
 <!-- ### A typical top-level directory layout -->
 
+<!--
     .
     ├── build                   # Compiled files
     ├── node                    # Source code files
@@ -47,6 +49,6 @@ If you want to get tokens for your testcase, please just ask in one of the commu
     │   ├── hdgen               # HD generator
     │   ├── iipfs               # IPFS wrapper
     │   └── ...
-    └── README.md
+    └── README.md -->
 
-> Use short lowercase names at least for the top-level files and folders except  `README.md` -->
+<!-- > Use short lowercase names at least for the top-level files and folders except  `README.md` -->

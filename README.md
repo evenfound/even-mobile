@@ -1,4 +1,4 @@
-# even-modile: The mobile application of Even Network
+# even-modile: The mobile application for Even Network
 
 The even-mobile repository is a project can be a GUI client or Light Node application.. 
 
